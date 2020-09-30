@@ -1,0 +1,10 @@
+Package: ExpSoilWater: Soil Water Explorer
+Type: Package
+Title: Soil Water Explorer
+Version: 1.0
+Date: 2020-09-29
+Author: Renato Paiva de Lima, Anderson Rodrigo da Silva
+Maintainer: Renato Paiva de Lima <renato_agro_@hotmail.com>
+Imports: shiny, shinydashboard
+Description: Soil Water Explorer
+License: GPL (>= 2)
