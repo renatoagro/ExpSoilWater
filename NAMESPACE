@@ -6,7 +6,7 @@ export(fitsoilwater_App)
 export(r_App)
 
 # Imports
-import("shiny")
-importFrom("shinydashboard")
+import(shiny, later)
+importFrom(shinydashboard, box)
 
 
