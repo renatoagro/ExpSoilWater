@@ -19,5 +19,3 @@ importFrom("stats", "as.formula", "coef", "deriv3", "getInitial",
 importFrom("utils", "head", "setTxtProgressBar", "tail",
              "txtProgressBar", "write.csv")
 
-# S3method
-S3method(print, llwr)
